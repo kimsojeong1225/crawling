@@ -8,7 +8,8 @@
 ####    2번 문제 :codingbot 사이트 java category의 문제 지문과 예시 정보 출력하기
 ####              https://codingbat.com/java
 ####
-### -주가 조회 : http://kind.krx.co.kr/corpgeneral/corpList.do?method=loadInitPage에서 받아온
+### -주가 조회 :
+####              http://kind.krx.co.kr/corpgeneral/corpList.do?method=loadInitPage에서 받아온
 ####              파일을 이용해 원하는 회사의 코드를 받아온 후
-####              https://finance.naver.com/item/sise_day.nhn?code=005930에서 원하는 회사의 정보를 크롤링해
-####              NaN값 제거후 시각화
+####              https://finance.naver.com/item/sise_day.nhn?code=005930에서 
+####              원하는 회사의 정보를 크롤링해 NaN값 제거 후 시각화
